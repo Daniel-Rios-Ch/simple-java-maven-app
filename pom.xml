@@ -15,7 +15,6 @@
       <scope>test</scope>
     </dependency>
     <!-- Dependencias Agregadas -->
-    <dependencies>
      <dependency>
          <groupId>org.Seleniumhq.Selenium</groupId>
          <artifactId>Selenium-java</artifactId>
